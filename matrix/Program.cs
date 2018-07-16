@@ -9,6 +9,7 @@ namespace matrix
     {
         static void Main(string[] args)
         {
+            Matrix matrix = new Matrix();
             
         }
     }
